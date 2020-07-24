@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 
 ### Ehco1996 ✈️
 
-很多同学会把`ehco`看成`echo`
+很多同学会把`ehco`看成`echo`, 事实上起名字那会是想叫`echo`的，因为那高中时看了很多[三毛(echo)](https://zh.wikipedia.org/zh-hk/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6))的书
 
-事实上起名字那会是想叫`echo`的，因为那高中时看了很多[三毛(echo)](https://zh.wikipedia.org/zh-hk/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6))的书
-
-但因为我经常会把文字的序顺看错 :)
-
-所以没错！ 我的名字的确是一个 **typo**
-
----
-
+但因为我经常会把文字的序顺看错 :) 所以没错！ 我的名字的确是一个 **typo**
 
 ![](https://github-readme-stats.vercel.app/api?username=ehco1996)
 
