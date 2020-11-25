@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ![ViewCount](https://views.whatilearened.today/views/github/ehco1996/ehco1996.svg)
 
-- 🔭 I’m currently working on [zaihui](https://www.kezaihui.com/lx/zaihui/zhpage/)
+- 🔭 I’m currently working at [zaihui](https://www.kezaihui.com/lx/zaihui/zhpage/)
 
 - 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher` 
