@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehco1996&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
 
 
-- 🔭 I’m currently working at [zaihui](https://www.kezaihui.com/lx/zaihui/zhpage/)
+- 🔭 I’m currently working at [PingCAP](https://pingcap.com/)
 
 - 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher` 
 
