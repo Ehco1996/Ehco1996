@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher` 
 
 - ✈️ Open to Remote Job Opportunities 🍻
+
+- 👀 Feel free to contact me via [Telegram](https://t.me/Ehco1996)
