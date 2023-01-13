@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 但因为我经常会把文字的序顺看错 :) 所以没错！ 我的名字的确是一个 **typo**
 
-![](https://github-readme-stats.vercel.app/api?username=ehco1996&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehco1996&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ehco1996/Ehco1996/output/github-contribution-grid-snake.svg)
 
 * 🔭 I’m currently working at [PingCAP](https://pingcap.com/)
