@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ehco1996/Ehco1996/output/github-contribution-grid-snake.svg)
 
-* 🔭 I’m currently working at <del>[PingCAP](https://pingcap.com/)</del>, Home
+* 🔭 I’m currently working at <del>PingCAP</del>, Home
 
 * 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher`
 
